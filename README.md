@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently looking for a new job
   
-- 📫 How to reach me [Telegram](https://t.me/stanislav_sheikin) or [Email](sheikinstanislav@gmail.com)
+- 📫 How to reach me [Telegram](https://t.me/stanislav_sheikin) or sheikinstanislav@gmail.com
 
 - 🌱 I’m currently learning **React, Typescript**
 
