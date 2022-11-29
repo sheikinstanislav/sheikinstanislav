@@ -1,8 +1,7 @@
 <h1 align="left">👋 Hi there , I'm Stanislav Sheikin</h1>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=sheikinstanislav&show_icons=true&theme=tokyonight&locale=en" alt="sheikinstanislav" /></p>
-
 <h4 align="left">I'm a frontend developer based in Ivano-Frankivsk, Ukraine!</h4>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikinstanislav&label=Profile%20views&color=0e75b6&style=flat" alt="sheikinstanislav" /> </p>
   
 - 📫 How to reach me [Telegram](https://t.me/stanislav_sheikin) or sheikinstanislav@gmail.com
 
